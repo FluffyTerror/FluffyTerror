@@ -2,10 +2,10 @@
 
 ### Backend Developer | Software Engineer
 
-I am a backend engineer focused on building robust, scalable, and secure server-side applications. My core stack centers around **Java**, but I also possess a healthy interest and love to dive into mobile development from time to time to see how things look from the client side.
+I am a backend engineer focused on building applications крфе (hopefully) will be used by people! My core stack centers around **Java**, but I also possess a healthy interest to dive into mobile development from time to time to see how things look from the client side.
 
-- **Current Focus:** Reactive systems design, data security (with latest pet project focused on E2EE with PGP encryption).
-- **Mobile Hobby:** Experimenting with the modern Android stack (Kotlin, Jetpack Compose, KMP).
+- **Current Focus:** Reactive systems design, data security (with latest pet project focused on E2EE with PGP).
+- **Mobile Hobby:** Experimenting with the Android stack (Kotlin, Jetpack Compose, KMP).
 
 ---
 
@@ -14,10 +14,10 @@ I am a backend engineer focused on building robust, scalable, and secure server-
 #### **Backend & Core**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Project Reactor](https://img.shields.io/badge/WebFlux_%2F_Reactor-6DB33F?style=for-the-badge)
+![WebFlux](https://img.shields.io/badge/WebFlux_%2F_Reactor-6DB33F?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### **Mobile Development (Pet Projects / Interests)**
+#### **Mobile Development**
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
