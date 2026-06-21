@@ -2,7 +2,7 @@
 
 ### Backend Developer | Software Engineer
 
-I am a backend engineer focused on building applications крфе (hopefully) will be used by people! My core stack centers around **Java**, but I also possess a healthy interest to dive into mobile development from time to time to see how things look from the client side.
+I am a backend engineer focused on building applications that (hopefully) will be used by people! My core stack centers around **Java**, but I also possess a healthy interest to dive into mobile development from time to time to see how things look from the client side.
 
 - **Current Focus:** Reactive systems design, data security (with latest pet project focused on E2EE with PGP).
 - **Mobile Hobby:** Experimenting with the Android stack (Kotlin, Jetpack Compose, KMP).
