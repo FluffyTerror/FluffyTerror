@@ -29,15 +29,6 @@ I am a backend engineer focused on building applications that (hopefully) will b
 
 ---
 
-###  GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=FluffyTerror&show_icons=true&theme=gotham&include_all_commits=true" alt="FluffyTerror GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FluffyTerror&layout=compact&theme=gotham&langs_count=6" alt="Top Languages" height="180"/>
-</p>
-
----
-
 ### Connect with Me
 - **Telegram:** [@PivnoyBochonok69](https://t.me/PivnoyBochonok69)
 - **LinkedIn:** [Profile](https://www.linkedin.com/in/denis-medvedev-9437613b7/)
