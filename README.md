@@ -30,5 +30,5 @@ I am a backend engineer focused on building applications that (hopefully) will b
 ---
 
 ### Connect with Me
-- **Telegram:** [@PivnoyBochonok69](https://t.me/PivnoyBochonok69)
+- **Telegram:** [@FluffyTerror](https://t.me/FluffyTerror)
 - **LinkedIn:** [Profile](https://www.linkedin.com/in/denis-medvedev-9437613b7/)
